@@ -1,0 +1,12 @@
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.vs
+*.db
+*.log
+
+# frontend node artifacts
+/frontend/node_modules
+/frontend/dist

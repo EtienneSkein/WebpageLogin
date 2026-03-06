@@ -1,0 +1,10 @@
+{
+  "name": "webapp-login",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:frontend": "cd frontend && npm run build",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "npm run dev:frontend"
+  }
+}
